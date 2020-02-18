@@ -1,4 +1,4 @@
-### Optional: SSH to Phantom box to set up certificate if you want valid certificates
+### If you prefer to have a valid certificate, you can SSH to Phantom box to set up certificate during setup process
    1. Run the following as root:
    ```
    yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
