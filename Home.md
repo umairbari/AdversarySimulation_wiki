@@ -1,4 +1,4 @@
-# Welcome to the AdversarySimulation wiki!
+# Welcome to the ATT&CK Simulator wiki!
 
 ## Setup Instructions
 
